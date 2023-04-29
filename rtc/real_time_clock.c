@@ -400,7 +400,7 @@ void SetTime(int* values)
 	UnlockClock(); 
 }
 
-void SetClockValues(int i)
+void SetClockValues(void)
 {
 	char str[8];
 	char text[8];
